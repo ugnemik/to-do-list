@@ -1,0 +1,35 @@
+body {
+  background: #0b0c10;
+  font-size: 1.4rem;
+}
+.container {
+  margin-top: 2rem;
+}
+.btn {
+  border: 1px solid #66fcf1;
+  color: #fff;
+  transition: 0.2s ease-in-out;
+  border-radius: 10px;
+  background: none;
+}
+
+.btn:hover {
+  background: #45a29e;
+  border: 1px solid #45a29e;
+}
+
+.card {
+  background: #1f2833;
+  border-radius: 10px;
+  padding: 1rem;
+}
+.card-title {
+  color: #66fcf1;
+}
+#task-title {
+  color: #45a29e;
+}
+.collection li {
+  background: none !important;
+  color: #c5c5c5;
+}
